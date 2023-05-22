@@ -16,7 +16,7 @@
             @endforeach
         </ul>
     </header>
-    <h1>{{$title}}</h1>
+    <h1>About </h1>
     <p>{{$descriptio}}</p>
 </body>
 
